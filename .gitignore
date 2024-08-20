@@ -2,3 +2,5 @@
 /backend/.gradle/
 /backend/build/
 /backend/build/classes/java/main/
+/backend/src/main/resources/application.yml
+/backend/gradle.properties
